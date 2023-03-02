@@ -5,4 +5,4 @@ package.json
 package-lock.json
 server.ts
 utils
-seeders
+tsconfig.json
